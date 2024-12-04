@@ -1,3 +1,9 @@
+pdf2zh_files
+gui/pdf2zh_files
+gradio_files
+tmp
+gui/gradio_files
+gui/tmp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -161,3 +167,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .vscode
+.DS_Store
